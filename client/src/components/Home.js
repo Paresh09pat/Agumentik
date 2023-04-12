@@ -149,19 +149,19 @@ function Home() {
             {/* footer */}
 
             <div className="footer">
-                <a target="_blank" href="https://www.instagram.com/accounts/login/">
+                <a target="_blank" href="https://www.instagram.com/accounts/login/" rel="noreferrer">
                     <img className="footimg" src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" alt="" />
                 </a>
 
-                <a href="https://www.facebook.com/login.php" target="_blank">
+                <a href="https://www.facebook.com/login.php" target="_blank" rel="noreferrer">
                     <img className="footimg" src="https://th.bing.com/th/id/R.77d199c5b5fc1a2f7fa8683b5cfd67b6?rik=MDfR351XsbPk%2bA&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f15%2fCircle-Facebook-Logo-PNG-Transparent-Picture.png&ehk=BN5scZdq7AcqoE4hS4UYLXjhiZ09xSwhEpstM8pSMRE%3d&risl=&pid=ImgRaw&r=0" alt="" />
                 </a>
 
-                <a href="https://www.youtube.com/" target="_blank">
+                <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
                     <img className="footimg1" src="https://clipartcraft.com/images/youtube-logo-transparent-4.png" alt="" />
                 </a>
 
-                <a href="https://twitter.com/i/flow/login" target="_blank">
+                <a href="https://twitter.com/i/flow/login" target="_blank" rel="noreferrer">
                     <img className="footimg" src="https://th.bing.com/th/id/R.3d74e8bfd4ef7985f7529bb9f7650eca?rik=RCvdo0dDvjxCWg&riu=http%3a%2f%2fwww.stickpng.com%2fassets%2fimages%2f580b57fcd9996e24bc43c53e.png&ehk=%2fkYf7%2bIY6TUkpUQzwclpivMLQ8ynEgcZYehDGOzbu0E%3d&risl=&pid=ImgRaw&r=0" alt="" />
                 </a>
             </div>
