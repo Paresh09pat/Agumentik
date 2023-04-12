@@ -10,7 +10,7 @@ app.use(cors())
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
-mongoose.connect('mongodb://localhost:27017/test', (err) => {
+mongoose.connect('mongodb+srv://GoFood:Paresh2411@cluster0.bzdqtiy.mongodb.net/?retryWrites=true&w=majority', (err) => {
     if (err) {
         console.log('DB Err.')
     } else {
