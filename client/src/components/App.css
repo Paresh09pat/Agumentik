@@ -1,0 +1,105 @@
+#mainsignin {
+  box-sizing: border-box;
+  width: 100%;
+  border: 2px solid red;
+  height: 745px;
+  background-image: url('https://images.unsplash.com/photo-1615051179134-62696ea77ef9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#mainsignup {
+  box-sizing: border-box;
+  width: 100%;
+  border: 2px solid red;
+  height: 745px;
+  background-image: url('https://images.unsplash.com/photo-1559666126-84f389727b9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1177&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#mainsignup1 {
+  box-sizing: border-box;
+  width: 100%;
+  border: 2px solid red;
+  height: 745px;
+  /* background-image: url('https://images.unsplash.com/photo-1559666126-84f389727b9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1177&q=80'); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.outcard {
+  padding: 25px;
+  margin-left: 22%;
+  width: 50%;
+  box-shadow: 1px 1px 5px 1px red;
+  border-radius: 3px;
+}
+
+.card {
+  box-shadow: 0 1px 2px 1px #ddd;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #eee;
+  box-sizing: border-box;
+}
+
+.inputs {
+  width: 93%;
+  color: #444;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px 10px;
+}
+
+.btns {
+  background-color: #0050b1;
+  color: #fff;
+  width: 96%;
+  padding: 10px 10px;
+  border-radius: 3px;
+  border: none;
+}
+
+.btns:hover {
+  cursor: pointer;
+}
+
+.center {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.comingName {
+  margin-right: 50px;
+  color: blue;
+}
+
+.logoutbtn {
+  background-color: red;
+  color: white;
+  box-sizing: border-box;
+  padding: 5px 10px 5px 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.logoutbtn:hover {
+  box-shadow: 2px 5px 5px rgb(13, 19, 2);
+  background-color: rgb(176, 221, 86);
+  color: red;
+}
+
+.mainHead {
+  font-weight: bolder;
+  font-size: 30px;
+  color: rgb(168, 12, 168);
+  text-shadow: 2px 2px 2px yellow;
+}
+
+.links {
+  text-align: center;
+  display: block;
+  margin-top: 5px;
+  text-decoration: none;
+}
