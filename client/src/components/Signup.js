@@ -10,7 +10,7 @@ function Signup() {
 
     const handleSubmit = () => {
         console.log(email, password)
-        axios.post('http://localhost:5000/signup',
+        axios.post('https://what-paresh.onrender.com/signup',
             {
                 email: email,
                 password: password
